@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MyViewController.buttonTouched(_:):MyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmp + prevNum">
+            </PersistentString>
+            <PersistentString
+               value = "floor(sum)">
+            </PersistentString>
+            <PersistentString
+               value = "prevNum">
+            </PersistentString>
+            <PersistentString
+               value = "sum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
